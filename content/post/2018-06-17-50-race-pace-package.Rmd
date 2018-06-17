@@ -1,0 +1,14 @@
+---
+title: 50 Race Pace Package
+author: Caitlin
+date: '2018-06-17'
+slug: 50-race-pace-package
+categories: []
+tags: []
+---
+
+# R PACKAGE
+
+### Background
+
+In swimming, whoever touches the wall first wins. Electronic timing pad systems track the time of the race. Since most races are longer than 50 yards/meters, the pads also give splits and display on the board how fast a swimmer's most recent 50 was. 
