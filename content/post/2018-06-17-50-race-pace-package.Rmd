@@ -67,3 +67,4 @@ Example
 ```{r}
 pace_200(110, "freestyle")
 ```
+
